@@ -727,7 +727,7 @@ Flexible pricing enables CPOs to offer differentiated pricing (in multiple curre
 
 In addition to the above flexible pricing capability, OICP 2.2 and OICP 2.3 enables more frequent and near real-time update and exchange of pricing information between CPOs and EMPs. This is achieved whereby a CPO continuously pushes valid prices to the HBS for specific EMPs to pull these prices.
 
-With OICP 2.2 and OICP 2.3 , the HBS offers an extensive breadth of technical capabilities for flexible and dynamic pricing of charging services for CPOs. Please refer to the supplementary document https://support.hubject.com/hc/en-us/categories/360000238177-Flexible-Dynamic-Pricing[“Dynamic Pricing - Functional Guide for Service Implementation”] for more details and a holistic view (technical and business perspectives) of how to best capitalize on the capabilities offered by the eRoamingDynamicPricing service.
+With OICP 2.2 and OICP 2.3 , the HBS offers an extensive breadth of technical capabilities for flexible and dynamic pricing of charging services for CPOs
 
 The eRoamingDynamicPricing service offers four operations, namely the:
 
